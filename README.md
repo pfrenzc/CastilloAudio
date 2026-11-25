@@ -1,2 +1,2 @@
 # CastilloAudio
-mastering - mixing - sound creation
+mastering - stem mixing - sound creation
